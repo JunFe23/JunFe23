@@ -93,13 +93,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunFe23&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=JunFe23&show_icons=true">
-
----
-
 ## 📫 Contact
 
 - Email: `ogum0405@hanmail.net`
