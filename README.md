@@ -61,9 +61,6 @@
 - Nginx  
 - Jenkins, New Relic 기반 배포·모니터링 경험
 
-**Frontend**
-- Vue.js (점진적으로 학습 및 적용 중)  
-
 **Etc**
 - Apache POI (대용량 Excel 생성)  
 - Google Sheets API  
